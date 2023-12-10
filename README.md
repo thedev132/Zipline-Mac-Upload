@@ -24,4 +24,6 @@ You can change the screencapture parameters if you want to change how your scree
 screencapture -h
 ```
 
+### Trigger by a keyboard combination command
 
+You can use [ICanHazeShortcut](https://github.com/deseven/icanhazshortcut) App to create a custom keyboard combination to trigger the script.
